@@ -14,8 +14,8 @@ $data = $_SESSION['enroll_data'];
 
 // Stripe Keys
 $stripe = [
-    'publishable_key' => 'pk_test_51S24AkPv3yrO1r93wKDnqLO7jRC3M31InIlmpkmryyYTxj6U0oQMkgm9YNwbCl2clnhAgYVycfyk8CQJnEw4PzJj00lXsjSkx3', // Replace with your Stripe publishable key
-    'secret_key' => 'sk_test_51S24AkPv3yrO1r93O1OtSGK2LC4b0IAYMqWeQ0EzvTBZm6baecyY4ebxDsIyOl9Tuhc770l1ugplIZd6VmzSg9LZ00jg70PgiQ'            // Replace with your Stripe secret key
+    'publishable_key' => ' ', // Replace with your Stripe publishable key
+    'secret_key' => ''            // Replace with your Stripe secret key
 ];
 
 ?>
