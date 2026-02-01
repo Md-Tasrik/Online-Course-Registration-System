@@ -33,9 +33,9 @@ Welcome to the Online Course Registration System! This web-based registration so
 - They can enroll in any available course and obtain a printout of their registered courses.
 
   #### _Login Details for Student_
-  - Reg No.: 10806121
-  - Password: 123456
-  - Student Pincode for Course Enrollment (Student): 390022
+  - Reg No.: 101
+  - Password: 12345678
+  
 
   ![image](https://github.com/bhavya51/Course_Registration_Portal/assets/93445041/8e1482ed-862f-42c3-8cb0-e0315d1c89e1)
   ![image](https://github.com/bhavya51/Course_Registration_Portal/assets/93445041/e81d1a4a-ed38-4f7d-b2e2-1c60df5cbd89)
