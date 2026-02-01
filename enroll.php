@@ -17,7 +17,7 @@ $student = mysqli_fetch_assoc($stmt);
 $fixedFee = 100; // USD
 
 // Stripe Payment Link URL (Stripe Payment Link)
-$stripe_payment_link = "https://buy.stripe.com/test_14A9AV0lk4AUgx96BI5EY01";  // Replace this with your actual Stripe Payment Link
+$stripe_payment_link = " ";  // Replace this with your actual Stripe Payment Link
 
 // Insert data into the database when "Enroll" button is clicked
 if (isset($_POST['submit'])) {
